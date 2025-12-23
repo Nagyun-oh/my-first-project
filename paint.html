@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>그림판</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <script src="./script.js" defer></script>
+    <h1>그림판</h1>
+    <div class="container">
+        <canvas id="drawCanvas" width="700" height="700"></canvas>
+        <div class ="controls">
+            <input type="color" id="colorPicker">
+            <input type="range" id="lineWidth"
+            min="1" max="20" value="3">
+            <span id="widthValue">3</span>
+            <button id="clearButton">Clear</button>
+            <button id="eraserButton"> 지우개</button>
+            <button id="saveButton">저장하기</button>
+            <button id="saveAsButton">다른 이름으로 저장</button>
+        </div>
+    </div>
+
+</body>
+</html>

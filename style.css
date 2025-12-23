@@ -1,0 +1,49 @@
+body{
+    /*배경*/
+    background-color: #2b2b2b;
+
+    /*글자색은 밝게 해서 잘 보이게 설정*/
+    color: #e0e0e0;
+
+    /* 화면 중앙 정렬*/
+    display:flex;
+    flex-direction:column;
+    align-items:center;        /* 좌우 기준 정중앙 배치 */
+    justify-content: center;   /* 위아래 기준 정중앙 배치 */
+
+    min-height: 100vh;
+    margin:0;
+    font-family: 'Arial',sans-serif;
+}
+
+/* "그림판" */
+h1{
+    display: block;
+    text-align:center;
+    margin-top:50px;
+}
+
+#drawCanvas{
+    background-color: white;
+    border: 2px solid #555;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    cursor:crosshair;
+    display:block;
+    margin:0 auto;
+}
+
+.controls{
+    margin-top:20px;
+    padding:15px;
+    background-color: #3c3f41;
+    border-radius:10px;
+    display:flex;
+    gap:15px;
+    align-items: center;
+}
+
+/*지우개 모드일때 사용할 클래스*/
+.eraser-cursor{
+    cursor:cell !important;
+}
