@@ -29,7 +29,8 @@
 <br>
 
 ## 웹사이트 화면 
-<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/5d03c207-fdb4-4bcc-a641-05c439f4cf38" />
+<img width="1918" height="1028" alt="image" src="https://github.com/user-attachments/assets/db88c6d8-ccb3-494c-ae7d-5bcaddb86151" />
+
 
 
 
