@@ -16,7 +16,9 @@
 2. **색상 & 두께 조절**: 원하는 색과 굵기를 선택하세요.
 3. **지우개 모드**: `destination-out` 기술을 사용한 정밀 지우개.
 4. **이미지 저장**: 내가 그린 그림을 파일로 저장(Download)합니다.
-5. **되돌리기/다시하기** : 그림을 되돌리거나 다시하기 할 수 있습니다.
+5. **되돌리기/다시하기** : 그림을 되돌리거나 다시 실행할 수 있습니다. (Window : Ctrl + z / Ctrl + y , Mac : Ctrl + Shift + z / Ctrl + y )
+                  
+6. **페이지 새로고침 확인** : 페이지 새로고침시 확인창을 띄웁니다.
 
 <br>
 
@@ -33,5 +35,7 @@
 <br>
 
 ## 웹사이트 화면 
-<img width="1918" height="1028" alt="image" src="https://github.com/user-attachments/assets/db88c6d8-ccb3-494c-ae7d-5bcaddb86151" />
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/623759d2-fb43-4c4a-bd10-66b2889a9168" />
+
+
 
