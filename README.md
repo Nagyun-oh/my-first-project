@@ -1,6 +1,6 @@
 # My Simple Paint App
 
-### 🔗 [웹사이트 방문하기](https://nagyun-oh.github.io/my-first-project/)
+### 🔗 [웹사이트 방문하기](https://nagyun-oh.github.io/frontend-toy-project/)
 
 <br>
 
